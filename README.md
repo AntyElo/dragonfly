@@ -1,4 +1,5 @@
-# DragonFly Plug-in of tmux
+# DragonFly Plug-in of tmux; github mirror of project worked with mercurial
+## Warning: this is in most HelloWorld
 DragonFly Plug-in, or DFP - the other implementation of ~~letters~~ butterfly plugin
 It provide: 
 
